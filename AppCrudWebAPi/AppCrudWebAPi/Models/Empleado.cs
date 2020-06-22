@@ -12,7 +12,7 @@ namespace AppCrudWebAPi.Models
         public string Nombre { get; set; }
         public string Cargo { get; set; }
         public DateTime FechaContratación { get; set; }
-        public string Dirección { get; set; }
+        public string Direccion { get; set; }
         public string Ciudad { get; set; }
         public string Pais { get; set; }
         public string TelDomicilio { get; set; }
